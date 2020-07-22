@@ -75,7 +75,7 @@
 |Day 50|July 18, 2020| Client Website Update| [Visit Website](https://caimconsulting.vercel.app/)| 
 |Day 51|July 19, 2020| Client Website Update| [Visit Website](https://caimconsulting.vercel.app/)| 
 ||| Microservices Tutorial Completed| [Tutorial](https://www.edureka.co/blog/microservices-tutorial-with-example)|
-|Day 52|July 20, 2020| Event Pen in {CSS} | [Register](https://tiny.cc/penincss)| 
+|Day 52|July 20, 2020| Event **Pen in {CSS}** | [Register Now](https://tiny.cc/penincss)| 
 |Day 53|July 21, 2020| iSmile Technologies Brochure designed| [See brochure](https://www.canva.com/design/DAECn7IhUrg/QgVdCcdY0kI_Sb8jKGqEcw/view?utm_content=DAECn7IhUrg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) | 
 ||| CSS Pizza CodePen| [View CodePen](https://codepen.io/chandrikadeb7/full/MWKLWBX)|
 
