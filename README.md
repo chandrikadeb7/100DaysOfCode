@@ -6,7 +6,7 @@
 ## Timeline
 
 |**Day:pushpin:**|**Date &nbsp;:calendar:**|**Lessons/Tasks Done :alarm_clock:**| **Reference Links :link:**|
-|------------|-------------------|------------------------------|------------------------------------|
+|------|-------------|--------------------|----------------|
 |Day 1|May 30, 2020| Learnt Kotlin Basics | [Codelabs](https://developer.android.com/courses/kotlin-bootcamp/overview)|
 |Day 2|May 31, 2020| Kotlin Project: **Random Project Idea Generator** | [Project Repo](https://github.com/chandrikadeb7/Random-ProjectIdeaGenerator)|
 |Day 3|June 1, 2020| Updated functionality of Project: **Face Mask Detection** | [Reference Blog](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/)|
@@ -42,7 +42,7 @@
 |Day 30|June 28, 2020|  | | 
 |Day 31|June 29, 2020|  | | 
 |Day 32|June 30, 2020|  | | 
-|Day 33|July 1, 2020|  | | 
+|Day 33|July 1, 2020|  | |
 |Day 34|July 2, 2020|  | | 
 |Day 35|July 3, 2020|  | | 
 |Day 36|July 4, 2020| Portfolio Website Deployed | [Visit Website](https://chandrikadeb7.github.io/)|
