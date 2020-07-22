@@ -19,5 +19,6 @@
 |Day 10|June 8, 2020|  | |
 |Day 11|June 9, 2020| Portfolio Website Update | [Gatsby Tutorial](https://www.gatsbyjs.org/tutorial/)|
 |Day 12|June 10, 2020| Beating Heart CodePen | [View CodePen](https://codepen.io/chandrikadeb7/full/yLYXBVg)|
-|Day 13|June 11, 2020| FreeCodeCamp CSS tutorials | [View CodePen](https://codepen.io/chandrikadeb7/full/yLYXBVg)|
-                    
+|Day 13|June 11, 2020| FreeCodeCamp CSS tutorials | [Tutorial](https://www.freecodecamp.org/learn/)|
+|||Train CodePen| [View CodePen](https://codepen.io/chandrikadeb7/full/LYGNNdo)|
+|||TV CodePen| [View CodePen](https://codepen.io/chandrikadeb7/full/RwraKxV)|
