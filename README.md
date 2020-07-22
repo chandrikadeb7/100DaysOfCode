@@ -52,6 +52,26 @@
 |Day 40|July 8, 2020|  | | 
 |Day 41|July 9, 2020| FreeCodeCamp CSS tutorials | [Tutorial](https://www.freecodecamp.org/learn/)|
 |Day 42|July 10, 2020| Mentoring Session on **Effective Resume & Online Portfolio Building** | [View Slides](https://docs.google.com/presentation/d/1lWUtSAJx4Bl46Vrtt28Gn_SlRdGsO7JFZtbNIe3CX74/edit?usp=sharing)|
+|Day 43|July 11, 2020| Client Website | [Visit Website](https://caimconsulting.vercel.app/)| 
+|Day 44|July 12, 2020| Client Website Update| [Visit Website](https://caimconsulting.vercel.app/)| 
+|Day 45|July 13, 2020| Client Website Deployed| [Visit Website](https://caimconsulting.vercel.app/)| 
+|Day 46|July 14, 2020| Technical Writer Interview | | 
+|Day 47|July 15, 2020| iSmile | | 
+|Day 48|July 16, 2020| iSmile | | 
+|Day 49|July 17, 2020| Received GSSoC'20 Cerificate | [View Certificate](https://drive.google.com/file/d/19p1aLjFoMwbZXdO8MwYsNaITuQR5LFvT/view?usp=sharing) | 
+|Day 50|July 18, 2020| Client Website Update| [Visit Website](https://caimconsulting.vercel.app/)| 
+|Day 51|July 19, 2020| Client Website Update| [Visit Website](https://caimconsulting.vercel.app/)| 
+|Day 52|July 20, 2020| Event Pen in {CSS} | [Register](https://tiny.cc/penincss)| 
+|Day 53|July 21, 2020| iSmile Technologies Brochure designed| [See brochure](https://www.canva.com/design/DAECn7IhUrg/QgVdCcdY0kI_Sb8jKGqEcw/view?utm_content=DAECn7IhUrg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) | 
+||| CSS Pizza CodePen| [View CodePen](https://codepen.io/chandrikadeb7/full/MWKLWBX)|
+
+
+
+
+
+
+
+
 
 
 
