@@ -87,15 +87,15 @@
 |Day 57|July 25, 2020| FreeCodeCamp projects| [Tutorial](https://www.freecodecamp.org/learn/)| 
 |Day 58|July 26, 2020| FreeCodeCamp projects| [Tutorial](https://www.freecodecamp.org/learn/)| 
 ||| Working on a tech blog| :pen: :notebook:|
-
-
-
-
-
-
-
-
-
+|Day 59|July 27, 2020| Blog - How I aced all my interviews? — A fresher’s guide | [See Blog](https://medium.com/coderbyte/how-i-aced-all-my-interviews-a-freshers-guide-b8a0b1b2694f)|
+|Day 60|July 28, 2020| Twitter 3000 followers CodePen | [View CodePen](https://codepen.io/chandrikadeb7/full/RwrmJNR)|
+|Day 61|July 29, 2020| *No Code Day* | :see_no_evil:| 
+|Day 62|July 30, 2020| SDE Role starts | :rocket:
+|Day 63|July 31, 2020| Basic Javascript Tutorial | [Tutorial](https://www.freecodecamp.org/learn/)|
+|Day 64|August 1, 2020| Basic Javascript Tutorial | [Tutorial](https://www.freecodecamp.org/learn/)|
+|Day 65|August 2, 2020| FreeCodeCamp projects| [Tutorial](https://www.freecodecamp.org/learn/)| 
+|Day 66|August 3, 2020| CSS Rakshabandhan CodePen | [View CodePen](https://codepen.io/chandrikadeb7/full/gOrYMbW)|
+|Day 67|August 4, 2020| Updated GitHub Readme | [See Readme](https://github.com/chandrikadeb7)| 
 
 
 
