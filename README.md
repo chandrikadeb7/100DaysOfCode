@@ -96,6 +96,19 @@
 |Day 65|August 2, 2020| FreeCodeCamp projects| [Tutorial](https://www.freecodecamp.org/learn/)| 
 |Day 66|August 3, 2020| CSS Rakshabandhan CodePen | [View CodePen](https://codepen.io/chandrikadeb7/full/gOrYMbW)|
 |Day 67|August 4, 2020| Updated GitHub Readme | [See Readme](https://github.com/chandrikadeb7)| 
+|Day 68|August 5, 2020| Basic Javascript ES6 | [Tutorial](https://www.freecodecamp.org/learn/)| 
+|Day 69|August 6, 2020| Java Overview | :eyes:|
+|Day 70|August 7, 2020| Basic Javascript ES6 | [Tutorial](https://www.freecodecamp.org/learn/)|
+|Day 71|August 8, 2020| Java Overview | :hourglass:|
+|Day 72|August 9, 2020| Java Overview | :rocket:|
+|Day 73|August 10, 2020| Java Design Patterns | :jigsaw:|
+||| Basic Javascript Regular Expressions | [Tutorial](https://www.freecodecamp.org/learn/)| 
+|Day 74|August 11, 2020| Agile and Scrum | :rocket:|
+||| Butterfly CodePen | [View CodePen](https://codepen.io/chandrikadeb7/full/qBZOZVX)|
+|Day 75|August 12, 2020| Git commands, Maven | :eyes:|
+|Day 76|August 13, 2020| Jenkins pipeline | :rocket:|
+
+
 
 
 
