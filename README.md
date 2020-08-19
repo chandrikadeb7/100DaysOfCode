@@ -106,8 +106,14 @@
 |Day 74|August 11, 2020| Agile and Scrum | :rocket:|
 ||| Butterfly CodePen | [View CodePen](https://codepen.io/chandrikadeb7/full/qBZOZVX)|
 |Day 75|August 12, 2020| Git commands, Maven | :eyes:|
-|Day 76|August 13, 2020| Jenkins pipeline | :rocket:|
-
+|Day 76|August 13, 2020| Jenkins pipeline | :innocent:|
+||| Basic Javascript Debugging | [Tutorial](https://www.freecodecamp.org/learn/)| 
+|Day 77|August 14, 2020| Jenkins pipeline implementation | :innocent:|
+||| Jira and Cucumber Testing Strategy | :cucumber:|
+|Day 78|August 15, 2020| Java Coding Problems | [Practice](https://www.geeksforgeeks.org/)|
+|Day 79|August 16, 2020| *No Code Day* | :panda_face:|
+|Day 80|August 17, 2020| SOAP/REST API implementation | :computer:|
+|Day 81|August 18, 2020| Java Spring architecture & bean config | :canned_food:|
 
 
 
