@@ -114,7 +114,25 @@
 |Day 79|August 16, 2020| *No Code Day* | :panda_face:|
 |Day 80|August 17, 2020| SOAP/REST API implementation | :computer:|
 |Day 81|August 18, 2020| Java Spring architecture & bean config | :canned_food:|
-
+|Day 82|August 19, 2020| Java Spring architecture & bean config | :canned_food:|
+|Day 83|August 20, 2020| Microservices using Mockito | :rocket:|
+|Day 84|August 21, 2020| Docker and Kubernetes | :ship:|
+|Day 85|August 22, 2020| Docker and Kubernetes | :whale:|
+|Day 86|August 23, 2020| *No Code Day* | :sleeping:|
+|Day 87|August 24, 2020| Learnt about AWS | :cloud:|
+|Day 88|August 25, 2020| Hosted an in-office session | :innocent:|
+|Day 89|August 26, 2020| Java coding practice | :nerd_face:|
+|Day 90|August 27, 2020| Java coding test | :student:|
+|Day 91|August 28, 2020| Telecom Overview | :phone:|
+|Day 92|August 29, 2020| Blog on CSS | [Read here](https://medium.com/analytics-vidhya/pure-css-art-from-zero-to-hero-b15d11f96702)|
+|Day 93|August 30, 2020| Built a GitHub Action| [See here](https://github.com/chandrikadeb7/chandrikadeb7)|
+|Day 94|August 31, 2020| Learnt about Maven and Perforce | :woman_technologist:|
+|Day 95|Sept 1, 2020| Tweaks in caimconsulting.in| [See here](caimconsulting.in)|
+|Day 96|Sept 2, 2020| Tweaks in caimconsulting.in| [See here](caimconsulting.in)|
+|Day 97|Sept 3, 2020| Completing some projects| :metal:|
+|Day 98|Sept 4, 2020| Final tweaks to caimconsulting.in | [See here](caimconsulting.in)|
+|Day 99|Sept 5, 2020| Learning about DevOps | :robot:|
+|Day 100|Sept 6, 2020| Challenge ends!! | :grin:|
 
 
 
