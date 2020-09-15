@@ -127,10 +127,10 @@
 |Day 92|August 29, 2020| Blog on CSS | [Read here](https://medium.com/analytics-vidhya/pure-css-art-from-zero-to-hero-b15d11f96702)|
 |Day 93|August 30, 2020| Built a GitHub Action| [See here](https://github.com/chandrikadeb7/chandrikadeb7)|
 |Day 94|August 31, 2020| Learnt about Maven and Perforce | :woman_technologist:|
-|Day 95|Sept 1, 2020| Tweaks in caimconsulting.in| [See here](caimconsulting.in)|
-|Day 96|Sept 2, 2020| Tweaks in caimconsulting.in| [See here](caimconsulting.in)|
+|Day 95|Sept 1, 2020| Tweaks in caimconsulting.in| [See here](http://caimconsulting.in/)|
+|Day 96|Sept 2, 2020| Tweaks in caimconsulting.in| [See here](http://caimconsulting.in/)|
 |Day 97|Sept 3, 2020| Completing some projects| :metal:|
-|Day 98|Sept 4, 2020| Final tweaks to caimconsulting.in | [See here](caimconsulting.in)|
+|Day 98|Sept 4, 2020| Final tweaks to caimconsulting.in | [See here](http://caimconsulting.in/)|
 |Day 99|Sept 5, 2020| Learning about DevOps | :robot:|
 |Day 100|Sept 6, 2020| Challenge ends!! | :grin:|
 
