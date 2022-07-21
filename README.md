@@ -21,6 +21,7 @@
 |Day 11|June 9, 2020| Portfolio Website Update | [Gatsby Tutorial](https://www.gatsbyjs.org/tutorial/)|
 |Day 12|June 10, 2020| Beating Heart CodePen | [View CodePen](https://codepen.io/chandrikadeb7/full/yLYXBVg)|
 |Day 13|June 11, 2020| FreeCodeCamp CSS tutorials | [Tutorial](https://www.freecodecamp.org/learn/)|
+|||Programming Tutorials| [Scaler](https://www.scaler.com/topics/)|
 |||Train CodePen| [View CodePen](https://codepen.io/chandrikadeb7/full/LYGNNdo)|
 |||TV CodePen| [View CodePen](https://codepen.io/chandrikadeb7/full/RwraKxV)|
 |Day 14|June 12, 2020| Panda CodePen | [View CodePen](https://codepen.io/chandrikadeb7/full/JjGXZZx)|
@@ -133,6 +134,7 @@
 |Day 98|Sept 4, 2020| Final tweaks to caimconsulting.in | [See here](http://caimconsulting.in/)|
 |Day 99|Sept 5, 2020| Learning about DevOps | :robot:|
 |Day 100|Sept 6, 2020| Challenge ends!! | :grin:|
+
 
 
 
