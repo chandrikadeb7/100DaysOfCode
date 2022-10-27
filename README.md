@@ -11,7 +11,7 @@
 |Day 2|May 31, 2020| Kotlin Project: **Random Project Idea Generator** | [Project Repo](https://github.com/chandrikadeb7/Random-ProjectIdeaGenerator)|
 |Day 3|June 1, 2020| Updated functionality of Project: **Face Mask Detection** | [Reference Blog](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/)|
 |Day 4|June 2, 2020| Major Project: **Face Mask Detection** | [Project Repo](https://github.com/chandrikadeb7/Face-Mask-Detection)|
-|Day 5|June 3, 2020| Python Lessons | |
+|Day 5|June 3, 2020| Python Lessons | [Tutorial](https://www.scaler.com/topics/python/)|
 |Day 6|June 4, 2020| Submitted project for **30DaysOfKotlin** | [Project Repo](https://github.com/chandrikadeb7/Random-ProjectIdeaGenerator)|
 |Day 7|June 5, 2020| Event **Coderantine** | Event Over :white_check_mark:|
 |Day 8|June 6, 2020| Learnt Kotlin extensions & generics | [Codelabs](https://developer.android.com/courses/kotlin-bootcamp/overview)|
